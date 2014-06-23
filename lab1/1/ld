@@ -1,1 +1,0 @@
-ld86 -d bs.o t.o /usr/lib/bcc/libc.a
