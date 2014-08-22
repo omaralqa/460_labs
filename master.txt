@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 this is testing
+=======
+hello World
+>>>>>>> testing
